@@ -1,0 +1,28 @@
+.menu{
+	background-image: url("");
+	background-image: url("images/sonnie-hiles.png");
+	height: 581px;
+	width: 1440px;
+}
+.page_footer{
+	background: #D7D1C9;
+}
+.anne_sweet{
+	margin-left:120PX;
+	margin-top: 4PX;
+}
+
+.nav-list{
+	margin-left: 720px;
+    margin-top: -33px;
+}
+.nav-item_3,
+.nav-item_2,
+.nav-item_4,
+.nav-item_1{
+	float: left;
+}
+  
+.nav-item_1{
+	margin-right: 83px;
+}
